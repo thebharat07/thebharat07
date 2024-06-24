@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thebharat07
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on android and web development.
   
 
 <!---
