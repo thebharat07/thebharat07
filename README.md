@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @thebharat07
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on android and web development.
-  
 
-<!---
-thebharat07/thebharat07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 👋 Hey there! I'm Bharat  
+
+I'm a **Computer Science student** passionate about **Web Development** and **AI/ML**. I love building innovative and scalable solutions, exploring new technologies, and contributing to open-source projects.  
+
+### 🚀 What I Do:  
+- 💻 **Full-Stack Web Development** (React, Spring Boot, Flask)  
+- 🤖 **AI/ML Enthusiast** (Python, TensorFlow, Scikit-learn)  
+- 📱 **Mobile App Development** (Flutter, Firebase)  
+- 🎨 **UI/UX & Frontend Magic** (CSS, Tailwind, Figma)  
+
+### 🌱 Currently Learning:  
+- Advanced **AI/ML Algorithms**  
+- Scalable **Cloud & Backend Architectures**  
+- Cutting-edge **Web & Mobile Tech**  
+
+### 📈 GitHub Stats  
+![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebharat07&show_icons=true&theme=tokyonight)  
+
+### 📫 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bagadi-bharat-938514239/)  
+
+
